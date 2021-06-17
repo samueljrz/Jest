@@ -1,3 +1,4 @@
+# The mainly propose this repository is contribute with knowledge about test in jest, so please, feel free to help it's would be awesome.
 ### If you wanna find some text in the component and return a error
 `screen.getByText(<"text that you wanna find">)`
 
